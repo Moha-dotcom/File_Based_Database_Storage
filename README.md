@@ -22,3 +22,12 @@ Each record is stored as a JSON line in text files, allowing fast appends, index
 - fs/promises
 - path
 - crypto (optional, for IDs or hashing)
+
+
+ Implement file-based product database with logging
+
+- Added Database class to handle product storage in a JSON file.
+- Implemented methods to add products, find products by ID, and retrieve all products.
+- Integrated pino logger for structured logging of operations and errors.
+- Ensured duplicate product IDs are not added and logged appropriate warnings.
+- Handled file read/write operations with error logging for robustness. 

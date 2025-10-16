@@ -1,0 +1,27 @@
+{
+  "name": "file_based_database_storage",
+  "version": "1.0.0",
+  "description": "A lightweight JSON-based database built entirely with **Node.js** and the **Filesystem (`fs`)** module — no external database required.   Each record is stored as a JSON line in text files, allowing fast appends, indexed lookups, and simple querying.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moha-dotcom/File_Based_Database_Storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moha-dotcom/File_Based_Database_Storage/issues"
+  },
+  "homepage": "https://github.com/Moha-dotcom/File_Based_Database_Storage#readme",
+  "dependencies": {
+    "node": "^25.0.0",
+    "pino": "^10.0.0",
+    "pino-pretty": "^13.1.2",
+    "uuid": "^13.0.0"
+  }
+}

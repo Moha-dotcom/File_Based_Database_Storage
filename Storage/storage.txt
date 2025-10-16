@@ -1,0 +1,4 @@
+{"id":"4565fdb8-d7ad-4054-bbcc-e99311a69fc7","name":"Sample Product","dateAdded":"2025-10-16T15:24:36.723Z","price":19.99,"description":"This is a sample product.","quantity":100}
+{"id":"1b5c856b-bc9b-42b6-bf0b-1676062b8899","name":"Sample Product","dateAdded":"2025-10-16T15:24:38.069Z","price":19.99,"description":"This is a sample product.","quantity":100}
+{"id":"c04f30e8-c3b3-48b5-8311-10a4411d2edb","name":"Sample Product","dateAdded":"2025-10-16T15:24:38.290Z","price":19.99,"description":"This is a sample product.","quantity":100}
+{"id":"5160b134-9f99-4043-ab7a-1ac11f105377","name":"Sample Product","dateAdded":"2025-10-16T15:24:38.482Z","price":19.99,"description":"This is a sample product.","quantity":100}
