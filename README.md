@@ -9,8 +9,7 @@ Supports CRUD operations (Create, Read, Update, Delete)
 Uses fs.promises for modern async handling
 Append-only logging for durability and simplicity
 
-Query data using intuitive syntax like:
-<code> db.find({ name: "John" }) </code>
+Query data using intuitive syntax like: <code> db.find({ name: "John" }) </code>
 db.find({ name: "John" })
 Lightweight and dependency-free — perfect for small projects or prototypes
 🧠 Tech Stack
