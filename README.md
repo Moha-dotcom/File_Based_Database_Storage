@@ -13,5 +13,12 @@ Each record is stored as a JSON line in text files, allowing fast appends, index
 - Uses **fs.promises** for modern asynchronous handling  
 - Append-only logging for durability and simplicity  
 - Query data using intuitive syntax like:  
-  ```js
-  db.find({ name: "John" })
+ - <code> db.find({ name: "John" }) </code>
+ - Lightweight and dependency-free — perfect for small projects or prototypes
+
+ - 
+## 🧠 Tech Stack
+- Node.js
+- fs/promises
+- path
+- crypto (optional, for IDs or hashing)
